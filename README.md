@@ -37,7 +37,7 @@ Hands-free control for Spotify — perfect for when you’re away from the keybo
 ---
 
 ## 📫 Get in Touch
-- 📧 **hyperiya.vcz@outlookcom**
+- 📧 **hyperiya.vcz@outlook.com**
 
 ---
 
