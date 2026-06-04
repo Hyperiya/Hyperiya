@@ -8,10 +8,10 @@
 
 ## 🚀 Featured Projects
 ### 🎵 Iris
-Music/game detail display app with live updates and a clean interface.
+Music/game detail display app with live updates and a clean interface
 
 ### 🎤 Voice-Controlled Spotify
-Hands-free control for Spotify — perfect for when you’re away from the keyboard.
+Hands-free control for Spotify thats perfect for when you’re away from the keyboard
 
 
 
